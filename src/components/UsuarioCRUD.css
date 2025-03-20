@@ -1,0 +1,16 @@
+/* UsuarioCRUD.css */
+.table {
+    font-size: 20px; /* Cambia el tamaño de la fuente de la tabla */
+    border:6px solid black;
+}
+
+.table th, .table td {
+    font-family: 'Arial', sans-serif; /* Cambia la fuente de la tabla */
+    border:6px solid black;
+    padding:30px;
+}
+
+h1, h2 {
+    font-family: 'Arial', sans-serif; /* Cambia la fuente de los encabezados */
+}
+
